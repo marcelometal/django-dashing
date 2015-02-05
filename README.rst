@@ -1,7 +1,7 @@
 ===============================================
 django-dashing
 ===============================================
-`django-dashing` is a customisable, modular dashboard application framework for Django to visualize interesting data about your project. Inspired in the exceptionally handsome dashboard framework Dashing_
+`django-dashing` is a customizable, modular dashboard application framework for Django to visualize interesting data about your project. Inspired in the exceptionally handsome dashboard framework Dashing_
 
 Check out a demo over `here <https://django-dashing-demo.herokuapp.com/dashboard/>`_.
 
